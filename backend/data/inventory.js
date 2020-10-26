@@ -1,5 +1,5 @@
 const stock = {
-  bottle: "229",
+  bottle: "0",
   socks: "342",
   shirt: {
     small: "45",
